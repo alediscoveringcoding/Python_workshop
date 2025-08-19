@@ -1,2 +1,2 @@
 # Python_workshop
-Workshop pythin automatization
+Workshop python automatization
